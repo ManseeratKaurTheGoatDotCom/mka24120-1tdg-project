@@ -3,3 +3,13 @@
     text-align:right;
   }
 
+  .text {
+    display: flex;
+    flex-direction: row ;
+    gap: 20px;
+  
+}
+
+.text img{
+  width: 50%;
+}
