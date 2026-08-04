@@ -13,3 +13,21 @@
 .text img{
   width: 50%;
 }
+
+
+.container-about {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+
+}
+
+.about-images {
+
+  display: flex;
+  flex-direction: column;
+
+  width: 50%;
+  gap: 20px;
+
+}
