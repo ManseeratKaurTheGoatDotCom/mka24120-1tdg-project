@@ -53,6 +53,9 @@
 
 .navbar li a {
   display: block;
-  text-align: center;
+  text-align: right;
   padding: 14px 16px;
 }
+
+
+
