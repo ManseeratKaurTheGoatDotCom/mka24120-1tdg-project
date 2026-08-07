@@ -1,16 +1,11 @@
+.text {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
 
-  .navbar{
-    text-align:right;
-  }
-
-  .text {
-    display: flex;
-    flex-direction: row ;
-    gap: 20px;
-  
 }
 
-.text img{
+.text img {
   width: 50%;
 }
 
@@ -39,7 +34,7 @@
   align-items: center;
 }
 
-
+/* navbar */
 .navbar ul {
   list-style-type: none;
   margin: 0;
@@ -48,14 +43,11 @@
 }
 
 .navbar li {
-  float: left;
+  float:left;
 }
 
 .navbar li a {
   display: block;
   text-align: right;
-  padding: 14px 16px;
+  padding: 34px 25px;
 }
-
-
-
