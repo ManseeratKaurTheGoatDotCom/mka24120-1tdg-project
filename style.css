@@ -43,11 +43,63 @@
 }
 
 .navbar li {
-  float:left;
+  float: left;
 }
 
 .navbar li a {
   display: block;
   text-align: right;
   padding: 34px 25px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #450A8B;
+  display: flex;
+}
+
+ul li a {
+  display: block;
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  background-color: #111111;
+}
+
+
+
+.heading {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #333333;
+  display: flex;
+}
+
+.heading {
+  display: block;
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.heading {
+  background-color: #db00ad;
+}
+
+body {
+  background-color: #0f0e3b;
+}
+
+p {
+  color: white;
+}
+
+.sign-up{
+  color: #ffbd59;
 }
