@@ -37,8 +37,8 @@
 /* navbar */
 .navbar ul {
   list-style-type: none;
-  margin: 0;
-  padding: 0;
+  margin: 50;
+  padding: 20;
   overflow: hidden;
 }
 
@@ -50,6 +50,7 @@
   display: block;
   text-align: right;
   padding: 34px 25px;
+  color: #ffbd59;
 }
 
 ul {
@@ -75,22 +76,22 @@ ul li a:hover {
 
 .heading {
   list-style-type: none;
-  margin: 0;
-  padding: 0;
-  background-color: #333333;
+  margin: 1%;
   display: flex;
-}
-
-.heading {
   display: block;
   color: white;
-  padding: 14px 16px;
+  padding: 8px 40px;
   text-decoration: none;
+  align-items: flex-start;
+  background-color: #db00ad;
+  border-radius: 35px;
 }
 
-.heading {
-  background-color: #db00ad;
+h1{
+  color: #ffbd59;
 }
+
+
 
 body {
   background-color: #0f0e3b;
@@ -102,4 +103,17 @@ p {
 
 .sign-up{
   color: #ffbd59;
+}
+
+
+.sign-up h2{
+  list-style-type: none;
+  margin: 1%;
+  display: flex;
+  display: block;
+  padding: 8px 40px;
+  text-decoration: none;
+  align-items: flex-start;
+  background-color: #db00ad;
+  border-radius: 25px;
 }
