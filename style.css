@@ -117,3 +117,10 @@ p {
   background-color: #db00ad;
   border-radius: 25px;
 }
+
+.text{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.container-about{
+  font-family: Arial, Helvetica, sans-serif;
+}
