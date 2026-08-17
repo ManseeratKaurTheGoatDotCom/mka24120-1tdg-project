@@ -53,10 +53,19 @@
   color: #ffbd59;
 }
 
+.navbar h1{
+padding-right: 1160px;
+
+}
+
+
+
+
+
 ul {
   list-style-type: none;
   margin: 0;
-  padding: 0;
+  padding: 20;
   background-color: #450A8B;
   display: flex;
 }
